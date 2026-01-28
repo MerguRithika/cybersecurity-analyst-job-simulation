@@ -37,7 +37,7 @@ These skills are essential for roles in:
 
 ## 🖼 Certificate
 
-![Cybersecurity Analyst Job Simulation Certificate](cybersecurity_certificate.png)
+![Cybersecurity Analyst Job Simulation Certificate]("C:\Users\RITHIKA\Downloads\Forage Certification.jpg")
 
 > This certificate verifies the successful completion of the Cybersecurity Analyst Job Simulation program.
 
